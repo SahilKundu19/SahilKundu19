@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SahilKundu19
 - 👀 I’m interested in Coding, Web Developing and FreeLancing
 - 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ You can Check out my Coding profiles at :
+-   1. Coding Ninjas : https://www.naukri.com/code360/profile/SahilCoder21
+    2. LeetCode : https://leetcode.com/18_sahil
 - 📫 How to reach me kundubabita991@gmail.com
 
 <!---
