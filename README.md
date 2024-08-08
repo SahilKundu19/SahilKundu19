@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SahilKundu19
-- 👀 I’m interested in Coding, Web Developing and FreeLancing
+- 👋 Hi, I’m Sahil Kundu
+- 👀 I’m interested in Coding and Web Developing
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ You can Check out my Coding profiles at :
 -   1. Coding Ninjas : https://www.naukri.com/code360/profile/SahilCoder21
